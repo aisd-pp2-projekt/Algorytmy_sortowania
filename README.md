@@ -1,4 +1,5 @@
 //program nie dziala w visual studio ze wzgledu na problem z realloc, w code_blocks dziala bez zarzutu
+//aby zobaczyc kod poprawnie nalezy wcisnac przycisk raw
 
 
 #include <stdio.h>
